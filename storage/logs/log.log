@@ -1,0 +1,199 @@
+[2024-03-12 15:59:24,504] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.113:5000
+[2024-03-12 15:59:24,505] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-12 19:29:09,589] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.113:5000
+[2024-03-12 19:29:09,594] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-12 19:45:59,576] INFO in _internal: 192.168.8.113 - - [12/Mar/2024 19:45:59] "GET /pokemon/poke HTTP/1.1" 200 -
+[2024-03-13 05:52:02,198] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.3:8000
+[2024-03-13 05:52:02,225] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 05:52:02,239] INFO in _internal:  * Restarting with stat
+[2024-03-13 05:52:06,453] WARNING in _internal:  * Debugger is active!
+[2024-03-13 05:52:06,490] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 05:52:17,425] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 05:52:17] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-13 05:52:21,172] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 05:52:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-13 06:01:21,906] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:01:23,282] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:01:28,998] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:01:29,045] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:01:31,887] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:01:34,535] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:01:40,657] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:01:40,691] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:02:55,589] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:02:55,923] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:03:01,685] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:03:01,726] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:03:05,291] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:03:05,621] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:03:09,469] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:03:09,543] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:03:16,557] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:03:16,828] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:20:48,821] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.3:8000
+[2024-03-13 06:20:48,868] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 06:20:48,911] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:20:51,492] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:20:51,588] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:21:46,163] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\student\\resources\\signin\\login.py', reloading
+[2024-03-13 06:21:46,483] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:21:49,572] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:21:49,612] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:33:07,616] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.3:8000
+[2024-03-13 06:33:07,618] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 06:33:07,624] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:33:10,515] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:33:10,549] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:34:40,771] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:34:40] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-13 06:34:57,699] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:34:57] "GET /student/student-login HTTP/1.1" 200 -
+[2024-03-13 06:35:11,531] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:35:11] "GET /student/student-login HTTP/1.1" 200 -
+[2024-03-13 06:35:37,009] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:35:37] "POST /student/student-login HTTP/1.1" 200 -
+[2024-03-13 06:48:46,761] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.3:5000
+[2024-03-13 06:48:46,764] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 06:48:46,773] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:48:49,424] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:48:49,466] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:52:38,879] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 06:52:39,174] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:52:43,445] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:52:43,519] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:53:16,573] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:53:16] "POST /student/student-login HTTP/1.1" 200 -
+[2024-03-13 06:53:24,678] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:53:24] "GET /student/student-login HTTP/1.1" 200 -
+[2024-03-13 06:55:18,784] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:55:19,086] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:55:22,820] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:55:22,860] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:55:29,602] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:55:29,925] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:55:33,327] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:55:33,396] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:55:36,845] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:55:37,094] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:55:39,715] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:55:39,747] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:55:43,466] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:55:43,805] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:55:47,163] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:55:47,208] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:56:12,216] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:56:12,468] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:56:15,667] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:56:15,729] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:56:27,007] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:56:27,287] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:56:30,617] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:56:30,665] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:56:36,275] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\__init__.py', reloading
+[2024-03-13 06:56:36,550] INFO in _internal:  * Restarting with stat
+[2024-03-13 06:56:39,054] WARNING in _internal:  * Debugger is active!
+[2024-03-13 06:56:39,084] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 06:58:21,602] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:58:21] "GET /pokemon/poke HTTP/1.1" 200 -
+[2024-03-13 06:59:41,051] INFO in _internal: 127.0.0.1 - - [13/Mar/2024 06:59:41] "GET /pokemon/poke/bulbasaur HTTP/1.1" 200 -
+[2024-03-13 08:52:06,625] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.3:5000
+[2024-03-13 08:52:06,643] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-13 08:52:06,674] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:52:13,223] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:52:13,285] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:52:47,965] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\review.py', reloading
+[2024-03-13 08:52:48,501] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:52:52,868] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:52:52,922] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:52:55,751] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\review.py', reloading
+[2024-03-13 08:52:56,989] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:53:05,603] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:53:05,684] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:53:17,092] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\review.py', reloading
+[2024-03-13 08:53:18,416] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:53:23,497] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:53:23,584] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:53:28,574] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\review.py', reloading
+[2024-03-13 08:53:29,127] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:53:33,949] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:53:34,014] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:53:39,412] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\review.py', reloading
+[2024-03-13 08:53:40,156] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:53:43,415] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:53:43,469] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:53:51,892] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_list.py', reloading
+[2024-03-13 08:53:53,021] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:53:58,197] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:53:58,247] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:00,057] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_list.py', reloading
+[2024-03-13 08:54:00,863] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:05,697] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:05,736] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:07,043] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_list.py', reloading
+[2024-03-13 08:54:07,510] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:11,862] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:11,911] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:15,678] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_list.py', reloading
+[2024-03-13 08:54:16,074] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:20,736] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:20,842] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:24,458] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_list.py', reloading
+[2024-03-13 08:54:24,824] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:32,143] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:32,256] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:33,832] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:54:34,386] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:38,839] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:38,876] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:44,858] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:54:45,244] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:49,186] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:49,240] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:53,735] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:54:54,385] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:54:57,287] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:54:57,326] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:54:59,730] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:55:00,451] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:55:03,163] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:55:03,202] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:55:05,868] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:55:06,890] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:55:12,025] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:55:12,052] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:55:19,900] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:55:20,155] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:55:23,314] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:55:23,408] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:55:25,834] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:55:26,417] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:55:30,610] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:55:30,719] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 08:58:16,246] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\app\\apis\\pokemon\\resources\\poke\\poke_detail.py', reloading
+[2024-03-13 08:58:17,745] INFO in _internal:  * Restarting with stat
+[2024-03-13 08:58:23,992] WARNING in _internal:  * Debugger is active!
+[2024-03-13 08:58:24,027] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 09:01:27,579] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\config.py', reloading
+[2024-03-13 09:01:28,016] INFO in _internal:  * Restarting with stat
+[2024-03-13 09:01:32,903] WARNING in _internal:  * Debugger is active!
+[2024-03-13 09:01:32,934] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 09:01:37,577] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\config.py', reloading
+[2024-03-13 09:01:37,889] INFO in _internal:  * Restarting with stat
+[2024-03-13 09:01:42,137] WARNING in _internal:  * Debugger is active!
+[2024-03-13 09:01:42,177] INFO in _internal:  * Debugger PIN: 873-417-956
+[2024-03-13 09:09:05,767] INFO in _internal:  * Detected change in 'E:\\Kerjaa\\BRI\\syseng\\pokemon_project-master\\run.py', reloading
+[2024-03-13 09:09:09,981] INFO in _internal:  * Restarting with stat
+[2024-03-13 09:09:23,028] WARNING in _internal:  * Debugger is active!
+[2024-03-13 09:09:23,179] INFO in _internal:  * Debugger PIN: 873-417-956
