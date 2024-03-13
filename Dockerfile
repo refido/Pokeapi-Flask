@@ -1,18 +1,20 @@
-FROM python:3.12-alpine
+# Gunakan base image Python
+FROM python:latest
 
-# copy the requirements file into the image
-COPY •/requirements.txt /app/requirements.txt
+# Set working directory di dalam container
+WORKDIR /app
 
-# switch working directory
-WORKDIR / app
+# Copy dependencies file ke dalam container
+COPY requirements.txt .
 
-# install the dependencies and packages in the requirements file
-RUN pip install -r requirements.txt
-COPY • /app
+# Install dependencies dari requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# expose port 5000
+# Copy seluruh isi dari direktori aplikasi ke dalam container
+COPY . .
+
+# Expose port yang digunakan oleh aplikasi
 EXPOSE 5000
 
-# configure the container to run in an executed manner
-ENV FLASK_APP=app-py
-CMD ["flask", "run", "--host", "0.0.0.0"]
+# Menjalankan aplikasi Flask
+CMD [ "python", "-m", "flask", "run", "--host=0.0.0.0"]
