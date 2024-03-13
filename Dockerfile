@@ -16,5 +16,5 @@ COPY . .
 # Expose port yang digunakan oleh aplikasi
 EXPOSE 5000
 
-# Menjalankan aplikasi Flask
-CMD [ "python", "-m", "flask", "run", "--host=0.0.0.0"]
+# Menjalankan aplikasi dengan python run.py
+CMD [ "python", "run.py" ]
