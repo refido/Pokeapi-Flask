@@ -8,8 +8,6 @@ WORKDIR / app
 
 # install the dependencies and packages in the requirements file
 RUN pip install -r requirements.txt
-* copy every content from the local file t
-the image
 COPY • /app
 
 # expose port 5000
